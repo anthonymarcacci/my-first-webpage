@@ -1,0 +1,19 @@
+
+h1, h3 {
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: green;
+
+}
+
+h3 {
+  font-style: italic;
+}
+
+li {
+  font-family: cursive;
+  line-height: 30px;
+}
